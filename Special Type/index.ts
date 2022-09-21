@@ -2,9 +2,9 @@
 // Any la kieu cho phep bo qua kiem tra kieu va cho phep su dung tat ca cac kieu mot cach hieu qua.
 // khong nen su dung 
 
-let v:any = true
-v = 'hello'
-console.log(v);
+let vc:any = true
+vc = 'hello'
+console.log(vc);
 
 // Type : Unknown
 // Khi chua biet kieu du lieu dau vao la gi thi co the dung Unknown
